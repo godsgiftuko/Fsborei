@@ -1,0 +1,7 @@
+PORT=8080
+USER=myseard2_fsboreiUser
+PASSWORD=matrix1
+DATABASE=myseard2_fsborei
+DB_PORT=3306
+HOST=api.fsborei.com
+
